@@ -307,9 +307,9 @@ export const footerContent = {
     { label: "Konsultasi", href: "#" },
   ],
   contact: {
-    email: "info@Mindly .id",
-    phone: "+62 21 1234 5678",
-    address: "SMKN 46 Jakarta",
+    email: "mindly@gmail.com",
+    phone: "+62 888 0911 2177",
+    address: "Jl Perum Pondok cipta raya",
   },
   newsletter: {
     title: "Berlangganan Newsletter",
