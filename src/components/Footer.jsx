@@ -178,7 +178,7 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 pt-8">
           <div className="text-center text-gray-400">
-            <p>© 2024 Mindly . All rights reserved.</p>
+            <p>© 2025 Mindly . All rights reserved.</p>
             <p className="mt-2">Made with ❤️ by Musthafa</p>
           </div>
         </div>
